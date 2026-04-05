@@ -1,7 +1,7 @@
 # 关于散步这件事
 我喜欢散步
 ## 我为什么喜欢散步？
-![alt text](images/reason.jpg)
+![alt text](images/reason.jpg){width="80%" height="80%"}
 
 ## 如何发起散步邀约？
 可以通过小红书或者微信联系我（公众号上有我的微信二维码），跟我说时间和地点，看到信息我会回复你的！
