@@ -2,13 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "simple's blog",
-  description: "simple's blog",
+  title: "simple  blog",
+  description: "新宝岛",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '散步经历', link: '/walk' },
+      { text: '代码学习', link: '/code' },
+      { text: '读书杂谈', link: '/read' }
     ],
 
     sidebar: [
@@ -22,7 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/simple2333' }
     ],
 
     footer: {

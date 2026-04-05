@@ -3,23 +3,35 @@
 layout: home
 
 hero:
-  name: "simple's blog"
-  text: "simple的博客"
-  tagline: 记录我的公园散步经历，代码学习，人生感悟等杂七杂八的东西
+  name: "New Treasure Island"
+  text: "新宝島"
+  tagline: 记录我的公园散步经历，代码学习等杂七杂八的东西
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 散步记录
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 代码学习
       link: /api-examples
+    - theme: alt
+      text: 微信公众号
+      link: https://mp.weixin.qq.com/s/B5Miujbs8ndZfRmLhDgf3Q
+    - theme: alt
+      text: 小红书
+      link: https://www.xiaohongshu.com/discovery/item/69c8e97a000000002101005a?source=webshare&xhsshare=pc_web&xsec_token=ABJ6EfCqMWpFTAeth0HOua9-YiELfssYmR5Ou5_PA2VfY=&xsec_source=pc_share
+    - theme: alt
+      text: B站
+      link: https://www.bilibili.com/video/BV1e1AczHE6w/?share_source=copy_web&vd_source=5b1e9bdfb36274eda6f59948bc820ebc
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🚶‍♀️
+    title: 公园散步
+    details: 记录我和我的散步搭子
+  - icon: 🖥️
+    title: 码海沉浮
+    details: 记录我的代码学习经历
+  - icon: 📝
+    title: 读书杂谈
+    details: 记录我的读后感  
 ---
 
