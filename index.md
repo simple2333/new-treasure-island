@@ -30,9 +30,6 @@ features:
   - icon: 📝
     title: 读书杂谈
     details: 记录我的读后感
-  - icon: 🍲
-    title: 美食记录
-    details: 记录我吃过的美食
   - icon: 🎮
     title: 游戏人生
     details: 记录那些给我带来触动的游戏
