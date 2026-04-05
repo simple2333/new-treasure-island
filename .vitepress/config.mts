@@ -34,16 +34,24 @@ export default defineConfig({
           { text: '3.越秀公园散步(20241222越秀公园)', link: '/blog/walk/20241222' },  
           { text: '2.黄花岗公园散步(20241207黄花岗公园)', link: '/blog/walk/20241207' },  
           { text: '1.海珠湖公园散步(20241130海珠湖公园)', link: '/blog/walk/20241130' },   
-
-
-
-
-
-
-
-
-
-
+        ]
+      },
+      {
+        text: '代码学习',
+        items: [
+          { text: '1.我的转码之路', link: '/blog/code/start' },
+        ]
+      },
+      {
+        text: '读书杂谈',
+        items: [
+          { text: '西线无战事', link: '/blog/read/西线无战事' },
+        ]
+      },
+      {
+        text: '游戏人生',
+        items: [
+          { text: '奇异人生', link: '/blog/game/奇异人生' },
         ]
       }
     ],
