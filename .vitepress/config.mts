@@ -10,17 +10,17 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '散步经历', link: '/walk' },
-      { text: '代码学习', link: '/code' },
-      { text: '读书杂谈', link: '/read' },
-      { text: '游戏人生', link: '/game' }
+      { text: '散步经历', link: '/blog/walk' },
+      { text: '代码学习', link: '/blog/code' },
+      { text: '读书杂谈', link: '/blog/read' },
+      { text: '游戏人生', link: '/blog/game' }
     ],
 
     sidebar: [
       {
         text: '散步经历',
         items: [
-          { text: '向前走，自有新蝉鸣夏，晚风会绕过你的肩膀(20260403顺峰山公园)', link: '/walk/20260403' }
+          { text: '向前走，自有新蝉鸣夏，晚风会绕过你的肩膀(20260403顺峰山公园)', link: '/blog/walk/20260403' }
         ]
       }
     ],

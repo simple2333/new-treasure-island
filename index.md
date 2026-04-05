@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 散步记录
-      link: /walk
+      link: /blog/walk
     - theme: alt
       text: 微信公众号
       link: https://mp.weixin.qq.com/s/B5Miujbs8ndZfRmLhDgf3Q
