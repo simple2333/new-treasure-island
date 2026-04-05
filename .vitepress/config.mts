@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "simple  blog",
   description: "新宝岛",
-  base: '/new-treasure-island/',
+  // base: '/new-treasure-island/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
