@@ -6,20 +6,21 @@ export default defineConfig({
   description: "新宝岛",
   // base: '/new-treasure-island/',
   themeConfig: {
+    logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
       { text: '散步经历', link: '/walk' },
       { text: '代码学习', link: '/code' },
-      { text: '读书杂谈', link: '/read' }
+      { text: '读书杂谈', link: '/read' },
+      { text: '游戏人生', link: '/game' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '散步经历',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '向前走，自有新蝉鸣夏，晚风会绕过你的肩膀(20260403顺峰山公园)', link: '/walk/20260403' }
         ]
       }
     ],

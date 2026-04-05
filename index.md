@@ -9,10 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 散步记录
-      link: /markdown-examples
-    - theme: alt
-      text: 代码学习
-      link: /api-examples
+      link: /walk
     - theme: alt
       text: 微信公众号
       link: https://mp.weixin.qq.com/s/B5Miujbs8ndZfRmLhDgf3Q
@@ -32,6 +29,12 @@ features:
     details: 记录我的代码学习经历
   - icon: 📝
     title: 读书杂谈
-    details: 记录我的读后感  
+    details: 记录我的读后感
+  - icon: 🍲
+    title: 美食记录
+    details: 记录我吃过的美食
+  - icon: 🎮
+    title: 游戏人生
+    details: 记录那些给我带来触动的游戏
 ---
 
